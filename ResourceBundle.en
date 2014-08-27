@@ -5,4 +5,5 @@ control.name.middle.initial=Middle Initial
 control.phone.day=Day phone
 control.phone.evening=Evening phone
 control.email=E-Mail address
+control.rest=AddedIn Local to push
 control.new=New Resource Updated in Git Hub
