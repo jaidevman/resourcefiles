@@ -5,3 +5,4 @@ control.name.middle.initial=Middle Initial
 control.phone.day=Day phone
 control.phone.evening=Evening phone
 control.email=E-Mail address
+control.new=New Resource Updated in Git Hub
