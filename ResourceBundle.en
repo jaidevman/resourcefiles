@@ -1,0 +1,7 @@
+control.name.first=First Name
+control.name.last=Last Name
+control.name.middle=Middle Name
+control.name.middle.initial=Middle Initial
+control.phone.day=Day phone
+control.phone.evening=Evening phone
+control.email=E-Mail address
